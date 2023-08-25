@@ -44,9 +44,10 @@
 </a>
 <a href="https://www.kotlin.com" target="_blank" rel="noreferrer">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"  alt="kotlin" width="40" height="40"/> 
 </a>
-<a href="https://www.css.com" target="_blank" rel="noreferrer">   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> 
+<a href="https://www.css.com" target="_blank" rel="noreferrer">   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
 </a>
-  
+<a href="https:/react.com" target="_blank" rel="noreferrer">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+</a>  
 </p>
 
 ## Tools:
