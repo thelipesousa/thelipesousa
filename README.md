@@ -3,7 +3,7 @@
 [MasterHead](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 -->
 
-<h1 align="center">Hello👋, I'm Felipe Sousa de Almeida</h1>
+<h1 align="center">Hello👋, I'm Felipe Sousa</h1>
 <h3 align="left">A student working on myself</h3>
 
 <!-- Comentario
@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on **nowhere**
 
-- 🌱 I’m currently learning **Kotlin, Java, Flutter and Dart**
+- 🌱 I’m currently learning **Java and React**
 
 - 👯 I’m looking to collaborate on **Development**
 
