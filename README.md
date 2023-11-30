@@ -1,7 +1,7 @@
 
-
+<!--
 ![Snake animation](https://github.com/thelipesousa/thelipesousa/blob/output/github-contribution-grid-snake.svg)
-
+-->
 <!--
 <h1 align="center">Hello👋, I'm Felipe Sousa</h1>
 <h3 align="left">A student working on myself</h3> -->
