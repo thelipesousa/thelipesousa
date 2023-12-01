@@ -30,6 +30,8 @@
   <a href="https://www.linkedin.com/in/thelipesousa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thelipesousa&theme=dark" alt="pedrolyraa" /></p>
+
 <!-- Comentario
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
