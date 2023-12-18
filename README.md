@@ -30,7 +30,18 @@
   <a href="https://www.linkedin.com/in/thelipesousa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thelipesousa&theme=dark" alt="pedrolyraa" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thelipesousa&theme=dark" alt="thelipesousa" /></p>
+
+
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/victormoreiraofc/count.svg"
+    alt="Ilustração do número de visitantes no perfil"
+  />
 
 <!-- Comentario
 
