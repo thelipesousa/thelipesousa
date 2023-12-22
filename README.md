@@ -32,7 +32,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thelipesousa&theme=dark" alt="thelipesousa" /></p>
 
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thelipesousa&bg_color=000000&color=00ff9d&line=00ff11&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <div align="center">
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
