@@ -6,26 +6,31 @@
 <h1 align="center">Hello👋, I'm Felipe Sousa</h1>
 <h3 align="left">A student working on myself</h3> -->
 
-# Hello World, I'm Lipe, be very welcome
+# Hello World, I'm Felipe, be very welcome
 
 <table>
   <a href="https://github.com/thelipesousa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thelipesousa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelipesousa&layout=compact&langs_count=6&theme=tokyonight"/>
   <img src="https://img.icons8.com/color/2x/react-native.png" width="120" alt="React"/>
-  <img src="https://img.icons8.com/color/2x/python.png" width="120" alt="Python">
-  <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
-  <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
-  <img src="https://img.icons8.com/nolan/2x/javascript.png" width="120" alt="JavaScript">
+  <img src="https://img.icons8.com/fluency/100/nextjs.png" width="120" alt="Nextjs">
+  <img src="https://img.icons8.com/color/100/python.png" width="120" alt="Python">
+  <img src="https://img.icons8.com/color/100/flutter.png" width="120" alt="Flutter">
+  <img src="https://img.icons8.com/color/100/nodejs.png" width="120" alt="NodeJS">
+  <img src="https://img.icons8.com/color/100/mongo-db.png" width="120" alt="MongoDB">
+<!--  <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5"> -->
+ <!-- <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3"> -->
+  <img src="https://img.icons8.com/color/100/javascript--v1.png" width="120" alt="JavaScript">
+  <img src="https://img.icons8.com/color/100/git.png" width="120" alt="Git">
 <!--  <img src="https://cdn.iconscout.com/icon/free/png-64/laravel-226015.png" width="120" alt="Laravel"> -->
-  <img src="https://img.icons8.com/color/2x/vue-js.png" width="120" alt="Vue.js">
-  <img src="https://img.icons8.com/color/2x/bootstrap.png" width="120" alt="Bootstrap">
+<!--  <img src="https://img.icons8.com/color/2x/vue-js.png" width="120" alt="Vue.js"> -->
+<!--  <img src="https://img.icons8.com/color/2x/bootstrap.png" width="120" alt="Bootstrap"> -->
 </table>
 
 <div> 
  <!-- <a href="https://www.youtube.com/channel/UCbOyyAqpyiYiImgaoXAwd9A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
   <a href="https://www.instagram.com/thelipesousa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitch.tv/lipexxxzz" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <!-- <a href="https://www.twitch.tv/lipexxxzz" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
   <a href = "mailto: contato@thelipesousa.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thelipesousa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
