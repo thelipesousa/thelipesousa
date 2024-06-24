@@ -12,6 +12,7 @@
   <a href="https://github.com/thelipesousa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thelipesousa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelipesousa&layout=compact&langs_count=6&theme=tokyonight"/>
+    <div>
   <img src="https://img.icons8.com/color/2x/react-native.png" width="120" alt="React"/>
   <img src="https://img.icons8.com/fluency/100/nextjs.png" width="120" alt="Nextjs">
   <img src="https://img.icons8.com/color/100/python.png" width="120" alt="Python">
@@ -25,6 +26,7 @@
 <!--  <img src="https://cdn.iconscout.com/icon/free/png-64/laravel-226015.png" width="120" alt="Laravel"> -->
 <!--  <img src="https://img.icons8.com/color/2x/vue-js.png" width="120" alt="Vue.js"> -->
 <!--  <img src="https://img.icons8.com/color/2x/bootstrap.png" width="120" alt="Bootstrap"> -->
+    </div>
 </table>
 
 <div> 
