@@ -1,17 +1,26 @@
 
-<!--
-![Snake animation](https://github.com/thelipesousa/thelipesousa/blob/output/github-contribution-grid-snake.svg)
--->
-<!--
-<h1 align="center">Hello👋, I'm Felipe Sousa</h1>
-<h3 align="left">A student working on myself</h3> -->
 
-# Hello World, I'm Felipe, be very welcome
+
+
+<h1 align="center">Hello👋, I'm Felipe Sousa</h1>
+<h3 align="left">A student working on myself</h3> 
+
+
+![Snake animation](https://github.com/thelipesousa/thelipesousa/blob/output/github-contribution-grid-snake.svg)
+
+
+![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thelipesousa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&include_all_pr=true&cache_seconds=100)
+
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thelipesousa&layout=compact&langs_count=6&theme=tokyonight&count_private=true&include_all_commits=true&include_all_pr=true&cache_seconds=100)
+
+
+
+
+
 
 <table>
   <a href="https://github.com/thelipesousa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thelipesousa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=500"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelipesousa&layout=compact&langs_count=6&theme=tokyonight&cache_seconds=500"/>
     <div>
   <img src="https://img.icons8.com/color/2x/react-native.png" width="120" alt="React"/>
   <img src="https://img.icons8.com/fluency/100/nextjs.png" width="120" alt="Nextjs">
@@ -37,18 +46,11 @@
   <a href="https://www.linkedin.com/in/thelipesousa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thelipesousa&theme=dark" alt="thelipesousa" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thelipesousa&theme=dark&count_private=true&include_all_commits=ture" alt="thelipesousa" /></p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thelipesousa&bg_color=000000&color=00ff9d&line=00ff11&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
 
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/thelipesousa/count.svg"
-    alt="Ilustração do número de visitantes no perfil"
-  />
+
+
 
 <!-- Comentario
 
