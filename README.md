@@ -10,8 +10,8 @@
 
 <table>
   <a href="https://github.com/thelipesousa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thelipesousa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelipesousa&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thelipesousa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=500"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelipesousa&layout=compact&langs_count=6&theme=tokyonight&cache_seconds=500"/>
     <div>
   <img src="https://img.icons8.com/color/2x/react-native.png" width="120" alt="React"/>
   <img src="https://img.icons8.com/fluency/100/nextjs.png" width="120" alt="Nextjs">
