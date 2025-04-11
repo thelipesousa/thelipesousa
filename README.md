@@ -40,7 +40,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/thelipesousa/thelipesousa/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/thelipesousa/thelipesousa/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
