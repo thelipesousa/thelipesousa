@@ -1,14 +1,18 @@
-<h1 align="center">👋 Hello, I'm Felipe Sousa</h1>
-<h3 align="center">🚀 A Software Engineering student building cool things & myself</h3>
+<code>console.log("Welcome to my github!😆")</code>
+<hr>
 
----
 
 ## 🧠 About Me
 
-- 🎓 Software Engineering @ PUC Campinas  
+- 🎓 Software Engineering @PUC Campinas  
 - 🔧 Focused on full-stack projects using **Next.js**, **Node.js**, **Prisma**, and more  
 - 📚 Currently diving deeper into **TypeScript**, **Cloud**, and **DevOps**  
 - ⚡ Building a micro-SaaS and community platform called **Space**  
+
+---
+## 🚀 Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=typescript,tailwind,postgresql,docker,mongodb,prisma,nextjs,react,vercel,nodejs)](https://skillicons.dev)
 
 ---
 
@@ -29,6 +33,7 @@
 
 ---
 
+
 ## 📈 Contribution Graph
 
 <p align="center">
@@ -45,20 +50,9 @@
 
 ---
 
-## 🚀 Tech Stack
 
-<p align="center">
-  <img src="https://img.icons8.com/fluency/100/nextjs.png" width="50" alt="Next.js"/>
-  <img src="https://img.icons8.com/color/100/nodejs.png" width="50" alt="Node.js"/>
-  <img src="https://img.icons8.com/color/100/typescript.png" width="50" alt="TypeScript"/>
-  <img src="https://img.icons8.com/color/100/javascript--v1.png" width="50" alt="JavaScript"/>
-  <img src="https://img.icons8.com/fluency/100/tailwind_css.png" width="50" alt="Tailwind CSS"/>
-  <img src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" width="50" alt="Prisma"/>
-  <img src="https://img.icons8.com/color/100/postgreesql.png" width="50" alt="PostgreSQL"/>
-  <img src="https://img.icons8.com/color/100/mongo-db.png" width="50" alt="MongoDB"/>
-  <img src="https://img.icons8.com/color/100/git.png" width="50" alt="Git"/>
-  <img src="https://avatars.githubusercontent.com/u/14985020?s=200&v=4" width="50" alt="Vercel"/>
-</p>
+
+
 
 ---
 
