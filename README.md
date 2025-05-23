@@ -12,7 +12,7 @@
 ---
 ## 🚀 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,tailwind,postgresql,docker,mongodb,prisma,nextjs,react,vercel,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,tailwind,postgresql,docker,mongodb,prisma,nextjs,react,vercel,nodejs)](https://skillicons.dev)
 
 ---
 
